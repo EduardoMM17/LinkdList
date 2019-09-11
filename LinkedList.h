@@ -16,6 +16,7 @@ public:
     LinkedList();
     void addNode(int);
     void printList();
+    void destruct();
 };
 
 
