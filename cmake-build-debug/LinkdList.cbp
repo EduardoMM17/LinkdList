@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Eduardo Medina/Desktop/ReposGit/LL/LinkdList/LinkedList.cpp">
+			<Option target="LinkdList"/>
+		</Unit>
+		<Unit filename="C:/Users/Eduardo Medina/Desktop/ReposGit/LL/LinkdList/LinkedList.h">
+			<Option target="LinkdList"/>
+		</Unit>
 		<Unit filename="C:/Users/Eduardo Medina/Desktop/ReposGit/LL/LinkdList/main.cpp">
 			<Option target="LinkdList"/>
 		</Unit>

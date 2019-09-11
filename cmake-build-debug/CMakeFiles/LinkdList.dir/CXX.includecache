@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Eduardo Medina/Desktop/ReposGit/LL/LinkdList/LinkedList.cpp
+LinkedList.h
+C:/Users/Eduardo Medina/Desktop/ReposGit/LL/LinkdList/LinkedList.h
+
+C:/Users/Eduardo Medina/Desktop/ReposGit/LL/LinkdList/LinkedList.h
+
+C:/Users/Eduardo Medina/Desktop/ReposGit/LL/LinkdList/main.cpp
+iostream
+-
+
