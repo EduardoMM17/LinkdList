@@ -10,7 +10,9 @@ struct Node{
 class LinkedList {
 private:
     Node* List;
+
 public:
+    int isThereANode = 0;
     LinkedList();
     void addNode(int);
 };
