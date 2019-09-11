@@ -15,6 +15,7 @@ public:
     int isThereANode = 0;
     LinkedList();
     void addNode(int);
+    void printList();
 };
 
 

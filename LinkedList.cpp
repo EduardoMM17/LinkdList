@@ -44,5 +44,16 @@ void LinkedList::addNode(int value){
     isThereANode = 1;
 }
 
+void LinkedList::printList() {
+    Node* aux1 = List;
+    while(aux1 != nullptr){
+        std::cout << aux1->val << std::endl;
+        aux1 = aux1->next;
+    }
+}
+
+
+
+
 
 
